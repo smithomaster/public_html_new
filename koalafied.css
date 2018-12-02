@@ -1,5 +1,9 @@
-header {
-    background-color:darkblue;
+h1, h2, h3, h4, h5, p {
+    font-family: sans-serif;
+}
+
+#header {
+    background-color:#276B97;
     background-repeat: no-repeat;
     background-size:  cover;
     font-family: Arial, Helvetica, sans-serif;
@@ -15,7 +19,7 @@ header {
 ul.menu {
     width=100%;
     float:right;
-    background-color: darkblue;
+    background-color: #276B97;
     padding-right: 20%;
 }
 p.credit {
@@ -30,7 +34,7 @@ ul.menu li {
 }
 /* Dropdown Button */
 .dropbtn {
-    background-color: darkblue;
+    background-color: #276B97;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -39,7 +43,6 @@ ul.menu li {
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown {
-    position: relative;
     display: inline-block;
 }
 
@@ -68,21 +71,30 @@ ul.menu li {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: navy;}
+.dropdown:hover .dropbtn {background-color: #302F45;}
 
-div#page-title {
+div.page-title {
     background-color: yellow;
-    height: 175px;
+    height: 300px;
     width: 100%;
     padding-top: 70px;
-    padding-bottom: 10px;
+    padding-bottom: 3px;
 }
 h1.title {
     color:black;
     font-family:sans-serif;
-    font-size:72px;
-    position: absolute;
-    top: 45px;
+    font-size:60px;
+    padding-top: 40px;
     float:right;
-    padding-left:220px;
+    text-align: center;
+    padding-right:30%
+}
+
+img.logo {
+    float:left;
+    
+}
+
+h1.info {
+    
 }
