@@ -1,3 +1,7 @@
+body {
+    background-color: lightgrey;
+}
+
 h1, h2, h3, h4, h5, p {
     font-family: sans-serif;
 }
@@ -74,12 +78,13 @@ ul.menu li {
 .dropdown:hover .dropbtn {background-color: #302F45;}
 
 div.page-title {
-    background-color: yellow;
+    background-color: #FFDA00;
     height: 300px;
     width: 100%;
     padding-top: 70px;
     padding-bottom: 3px;
 }
+
 h1.title {
     color:black;
     font-family:sans-serif;
@@ -95,6 +100,25 @@ img.logo {
     
 }
 
+div.info {
+    padding-left:20%;
+    padding-right:20%;
+}
+
+div.info-border {
+    border-style:solid;
+    background-color: #FFF19A;
+}
+
 h1.info {
-    
+    text-align: center;
+}
+
+p.info {
+    padding-left: 10%;
+    padding-right: 10%;   
+}
+
+img.img-right-inline {
+    float:right;
 }
