@@ -1,4 +1,32 @@
- /* Dropdown Button */
+header {
+    background-color:darkblue;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    width: 100%;
+    text-align:left;
+    border-radius: 0px;
+    position: absolute;
+    left: 0px;
+}
+
+p.credit {
+    color:whitesmoke;
+    font-size: 9px;
+    padding-top: 90px;
+}
+ul.menu {
+    width=100%;
+    float:right;
+    background-color: darkblue;
+    padding-right: 10%;
+}
+
+ul.menu li {
+    display:inline;
+}
+/* Dropdown Button */
 .dropbtn {
     background-color: #4CAF50;
     color: white;
@@ -39,3 +67,10 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+div.page-title {
+    background-color: yellow;
+    height: 100px;
+    width: 100%;
+    border-radius: 0px;
+}
