@@ -1,0 +1,7 @@
+<div class = "info">
+    <div class = "info-border">
+        <p class = "date">DATE HERE</p>
+        <h1 class = "info">TITLE HERE</h1>
+        <p class = "news">CONTENT HERE</p>
+    </div>
+</div>

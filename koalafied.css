@@ -1,5 +1,5 @@
 body {
-    background-color: lightgrey;
+    background-color: #276B97;
 }
 
 h1, h2, h3, h4, h5, p {
@@ -106,7 +106,8 @@ div.info {
 
 div.info-border {
     border-style:solid;
-    background-color: #FFF19A;
+    /*background-color: #FFF19A;*/
+    background-color: whitesmoke;
 }
 
 h1.info {
@@ -163,3 +164,41 @@ video.embed{
     padding-left:10%;
     padding-right: 10%;
 }
+
+aside.navmenu {
+    width: 15%;
+    float:left;
+    padding-left:1%;
+    padding-right:1%;
+    background-color: #FFDA00;
+}
+/*div.triplets {
+    padding-left: 20%;
+    padding-right: 20%;
+    width: 100%;
+}
+
+div.left-triplet {
+    float:left;
+    width: 16%;
+}
+
+div.right-triplet {
+    float:right;
+    width: 16%;
+    padding-right: 40.5%;
+    padding-left:0%;
+}
+
+div.middle-triplet {
+    width: 16%;
+    padding-left: 20%;
+    padding-right: 0;
+}
+div.triplet-border {
+    border-style:solid;
+    background-color: #FFF19A;
+    background-color: whitesmoke;
+    height: 100%;
+    width: 100%;
+}*/
