@@ -122,6 +122,12 @@ h2.info {
     padding-right: 10%;
 }
 
+h3.info {
+    text-align: center;
+    padding-left:10%;
+    padding-right: 10%;
+}
+
 p.info {
     padding-left: 10%;
     padding-right: 10%;   

@@ -1,0 +1,20 @@
+<aside class = "navmenu">
+            <h2 class="info">Title</h2>
+            <ul>
+                <li>
+                    <a href = "#SECTION">
+                        <p class = "info">SECTION</p>
+                    </a>
+                </li>
+                <li>
+                    <a href = "#SECTION">
+                        <p class = "info">SECTION</p>
+                    </a>
+                </li>
+                <li>
+                    <a href = "#SECTION">
+                        <p class = "info">SECTION</p>
+                    </a>
+                </li>
+            </ul>
+        </aside>
