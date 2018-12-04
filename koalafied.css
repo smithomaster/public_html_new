@@ -183,6 +183,17 @@ aside.navmenu {
     padding-right:1%;
     background-color: #FFDA00;
 }
+
+div.duo {
+    column-count: 2;
+    column-gap: 1%;
+    padding-left:20%;
+    padding-right:20%;
+}
+
+h2.left-duo {
+    column-span: 1;
+}
 /*div.triplets {
     padding-left: 20%;
     padding-right: 20%;
