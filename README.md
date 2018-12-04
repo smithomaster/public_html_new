@@ -52,7 +52,7 @@ A **bad** comment looks like this:
 In this comment, the comments are being used needlessly to describe things which are just in front of it, and have nothing that needs to be noted or problem that has been solved. It is a waste of space, and  in our code, we want to waste as little space as possible. 
 ## HTML5 Semantics
 As a general rule, I won't be using the HTML5 semantic elements (apart from article), because I feel that the names are way too general, and that if there are enough different semantic names to make the things I want, it will be too complicated and annoying. So my good friend `<div>` wins here. 
-**However**, I will be using the `<article>` tag for articles in the news and journal pages, that is a notable exception because it serves a very clear and defined purpose (unlike section).
+**However**, I will be using the `<article>` tag for articles in the news and journal pages, that is a notable exception because it serves a very clear and defined purpose (unlike section). We will also use the `<aside>` tag for our sidebars.
 ## Hyphens or camelCase?
 While I am a big fan of camelCase, and use it when I'm in C or Python, I like to use hyphens when I'm in HTML and CSS, because I think that it looks neater and is easier to read without any extra work, and making the code easier to read is what we want to do.
 ## Music while coding
