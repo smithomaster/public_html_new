@@ -1,5 +1,5 @@
 body {
-    background-color: #276B97;
+    background-color: whitesmoke;
 }
 
 h1, h2, h3, h4, h5, p {
@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 #header {
-    background-color:#276B97;
+    background-color:#302F44;
     background-repeat: no-repeat;
     background-size:  cover;
     font-family: Arial, Helvetica, sans-serif;
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, p {
 ul.menu {
     width=100%;
     float:right;
-    background-color: #276B97;
+    background-color: #302F44;
     padding-right: 20%;
 }
 p.credit {
@@ -38,7 +38,7 @@ ul.menu li {
 }
 /* Dropdown Button */
 .dropbtn {
-    background-color: #276B97;
+    background-color: #302F44;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -54,7 +54,7 @@ ul.menu li {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f1f1f1;
+    background-color: aliceblue;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -75,10 +75,10 @@ ul.menu li {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #302F45;}
+.dropdown:hover .dropbtn {background-color: #276B97 ;}
 
 div.page-title {
-    background-color: #FFDA00;
+    background-color: #276B97;
     height: 300px;
     width: 100%;
     padding-top: 70px;
@@ -86,7 +86,7 @@ div.page-title {
 }
 
 h1.title {
-    color:black;
+    color:whitesmoke;
     font-family:sans-serif;
     font-size:60px;
     padding-top: 40px;
@@ -105,7 +105,8 @@ div.info {
 }
 
 div.info-border {
-    border-style:solid;
+    padding-top:0.1%;
+    padding-bottom:0.1%;
     /*background-color: #FFF19A;*/
     background-color: whitesmoke;
 }
@@ -136,7 +137,7 @@ p.info {
 p.news {
     padding-left: 10%;
     padding-right: 10%; 
-    font-size: 13px;
+    font-size: 16px;
 }
 
 img.right-inline {
@@ -194,6 +195,12 @@ div.duo {
 h2.left-duo {
     column-span: 1;
 }
+
+p.business {
+    padding-left: 10%;
+    padding-right: 10%; 
+    font-size: 12px;
+}
 /*div.triplets {
     padding-left: 20%;
     padding-right: 20%;
@@ -224,3 +231,7 @@ div.triplet-border {
     height: 100%;
     width: 100%;
 }*/
+table.sponsor-options {
+    padding-left:10%;
+    padding-right:10%;
+}
