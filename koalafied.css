@@ -103,6 +103,7 @@ div.info {
     padding-left:20%;
     padding-right:20%;
 }
+}
 
 div.info-border {
     padding-top:0.1%;
@@ -159,6 +160,8 @@ img.article{
 }
 
 img.full-width {
+    padding-left:10%;
+    width:80%;
 }
 
 p.caption {
