@@ -79,7 +79,7 @@ ul.menu li {
 
 div.page-title {
     background-color: #276B97;
-    height: 300px;
+    height: 3230px;
     width: 100%;
     padding-top: 70px;
     padding-bottom: 3px;
@@ -185,7 +185,7 @@ aside.navmenu {
     width: 160px; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
-    top: 363; /* Stay at the top */
+    top: 323; /* Stay at the top */
     left: 0;
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
