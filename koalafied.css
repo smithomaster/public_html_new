@@ -1,5 +1,6 @@
 body {
     background-color: whitesmoke;
+    margin:0;
 }
 
 h1, h2, h3, h4, h5, p {
@@ -83,6 +84,7 @@ div.page-title {
     width: 100%;
     padding-top: 70px;
     padding-bottom: 3px;
+    padding-left: 200px;
 }
 
 h1.title {
@@ -182,10 +184,10 @@ video.embed{
 
 aside.navmenu {
     height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 160px; /* Set the width of the sidebar */
+    width: 200px; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
-    top: 323; /* Stay at the top */
+    top: 0; /* Stay at the top */
     left: 0;
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
