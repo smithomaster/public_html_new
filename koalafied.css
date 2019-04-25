@@ -33,6 +33,7 @@ p.credit {
     bottom: 0;
     left: 1%;
     font-size: 9px;
+    padding-left: 200px;
 }
 ul.menu li {
     display:inline;
