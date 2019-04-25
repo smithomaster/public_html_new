@@ -132,12 +132,12 @@ h3.info {
 
 p.info {
     padding-left: 10%;
-    padding-right: 10%;   
+    padding-right: 10%;
 }
 
 p.news {
     padding-left: 10%;
-    padding-right: 10%; 
+    padding-right: 10%;
     font-size: 16px;
 }
 
@@ -186,6 +186,7 @@ aside.navmenu {
     padding-left:1%;
     padding-right:1%;
     background-color: #FFDA00;
+    displat:block;
 }
 
 div.duo {
@@ -201,7 +202,7 @@ h2.left-duo {
 
 p.business {
     padding-left: 10%;
-    padding-right: 10%; 
+    padding-right: 10%;
     font-size: 12px;
 }
 /*div.triplets {
