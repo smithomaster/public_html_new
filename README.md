@@ -1,5 +1,6 @@
 # Team Koalafied Website
-After deliberation by the Media Team and Amber at the 2/12/18 meeting, it has been decided a new layout for the website will be created. We're doing this from scratch, so we'll all get to know the development process, and will have everything set up properly, and not just adding things in dribs and drabs. **PLANNING!**
+After deliberation by the Media Team and Amber at the 2/12/18 meeting, it has been decided a new layout for the website will be created.
+**PLANNING!**
 Also, I am writing this and the syntax guide to my own specs, without communal discussion, so if you think there's something I could do better, tell me. I'll fix it up.
 ## Editing
 We are using GitHub now, so we won't have any more source control problems as we add more members to our website team! If you have any problems with GitHub, hit me up!
