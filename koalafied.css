@@ -22,18 +22,14 @@ h1, h2, h3, h4, h5, p {
 }
 
 ul.menu {
-    width=100%;
-    float:right;
     background-color: #302F44;
-    padding-right: 20%;
+    padding-right: 10%;
+    float:right;
 }
 p.credit {
     color:whitesmoke;
-    position: absolute;
-    bottom: 0;
-    left: 1%;
     font-size: 9px;
-    padding-left: 200px;
+    float:right;
 }
 ul.menu li {
     display:inline;
@@ -100,6 +96,10 @@ h1.title {
 img.logo {
     float:left;
     padding-left:200px;
+}
+
+h1.koalafied-name {
+    float:left;
 }
 
 div.info {
