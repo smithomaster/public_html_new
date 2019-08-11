@@ -1,18 +1,18 @@
 body {
     background-color: whitesmoke;
     margin:0;
-    font-family: "Comic Sans MS", sans-serif;
+    font-family: sans-serif;
 }
 
 h1, h2, h3, h4, h5, p {
-    font-family: "Comic Sans MS", sans-serif;
+    font-family: sans-serif;
 }
 
 #header {
     background-color:#302F44;
     background-repeat: no-repeat;
     background-size:  cover;
-    font-family: "Comic Sans MS", sans-serif;
+    font-family: sans-serif;
     color:white;
     width: 100%;
     text-align:left;
